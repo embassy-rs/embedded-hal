@@ -14,3 +14,4 @@
 pub mod delay;
 pub mod digital;
 pub mod serial;
+pub mod spi;
